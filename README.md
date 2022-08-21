@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukaz1802&label=Profile%20views&color=0e75b6&style=flat" alt="lukaz1802" /> </p>
 
-- 🔭 I’m currently working on Yuhmak S.A
+- 🔭 I’m currently working on Softtek
 
 - 🌱 I’m currently learning **FullStack Developer - NodeJS. React. MongoDB.**
 
