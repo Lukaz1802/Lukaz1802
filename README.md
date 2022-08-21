@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Lopez</h1>
-<h3 align="center">Apasionado por la tecnología desde pequeño aprendí a armar y reparar computadoras de manera autodidacta, actualmente es a lo que me dedico de manera independiente contando con muchos clientes. Programador FullStack en YUHMAK S.A.</h3>
+<h3 align="center">Apasionado por la tecnología desde pequeño aprendí a armar y reparar computadoras de manera autodidacta, actualmente es a lo que me dedico de manera independiente contando con muchos clientes. Programador FullStack en Softtek.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukaz1802&label=Profile%20views&color=0e75b6&style=flat" alt="lukaz1802" /> </p>
 
